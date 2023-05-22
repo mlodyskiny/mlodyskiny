@@ -1,7 +1,1 @@
-cord: parkie#5066
-
-mail: none
-
-site: none
-
-xorstr_("cheat status: UD")
+![](https://cdn.discordapp.com/attachments/1061381517621866607/1110236747981398045/nekoware.png)

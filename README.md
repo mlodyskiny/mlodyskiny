@@ -1,6 +1,9 @@
-## Contact
+```
 
-- Discord: jebacepicgames
+                                                                     __    _    
+                                                      ___  ___ _____/ /__ (_)__ 
+                                                     / _ \/ _ `/ __/  '_// / -_)
+                                                    / .__/\_,_/_/ /_/\_\/_/\__/ 
+                                                   /_/                          
 
-
-![💯💯💯](https://github-readme-stats.vercel.app/api/top-langs/?username=mlodyskiny)
+```

@@ -1,3 +1,5 @@
+GitHub Copilot - The world’s most widely adopted AI developer tool.
+
 ```cpp
 #define Zeichen char
 #define Zeichenkette char*

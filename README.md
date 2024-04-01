@@ -1,2 +1,17 @@
-![:3](https://github.com/mlodyskiny/mlodyskiny/assets/69488850/003afd09-bfef-41d3-9fde-cb8d49343dc7)
-
+```cpp
+#define Zeichen char
+#define Zeichenkette char*
+#define ZeichenketteKonstante const char*
+#define ZeichenketteReferenz char*&
+#define ZeichenketteKonstanteReferenz const char*&
+#define ZeichenketteReferenzReferenz char**
+#define ZeichenketteKonstanteReferenzReferenz const char**
+#define ZeichenketteReferenzReferenzReferenz char***
+#define ZeichenketteKonstanteReferenzReferenzReferenz const char***
+#define ZeichenketteReferenzReferenzReferenzReferenz char****
+#define ZeichenketteKonstanteReferenzReferenzReferenzReferenz const char****
+#define ZeichenketteReferenzReferenzReferenzReferenzReferenz char*****
+#define ZeichenketteKonstanteReferenzReferenzReferenzReferenzReferenz const char*****
+#define ZeichenketteReferenzReferenzReferenzReferenzReferenzReferenz char******
+#define ZeichenketteKonstanteReferenzReferenzReferenzReferenzReferenzReferenz const char******
+```

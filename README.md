@@ -1,1 +1,11 @@
-![=](https://i.redd.it/2c4tq60bw4r81.jpg)
+![](https://img.shields.io/badge/Ryzen_7_7800X3D-000000?style=for-the-badge&logo=AMD&logoColor=white&logoSize=auto)
+![](https://img.shields.io/badge/GeForce_RTX_4060_Ti-000000?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto)
+
+![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto)
+![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto)
+![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto)
+![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto)
+![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto)
+![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto)
+![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto)
+![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto)

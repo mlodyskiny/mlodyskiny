@@ -1,2 +1,1 @@
-## ✉ How to contact me
-- **Signal**: parkie.1337
+[![ezfn](https://img.youtube.com/vi/MCACzfYkNMg/0.jpg)](https://www.youtube.com/watch?v=MCACzfYkNMg)

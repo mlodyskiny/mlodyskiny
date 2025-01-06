@@ -1,3 +1,3 @@
-![]([https://i.imgur.com/8ZXN6sy.png](https://files.catbox.moe/3jfb70.jpg!d))
+![](https://files.catbox.moe/3jfb70.jpg)
 
 ## c plus plus 

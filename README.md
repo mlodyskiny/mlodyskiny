@@ -1,4 +1,3 @@
-![FUCK THE BLIND](https://files.catbox.moe/khomsk.jpg)
 ![FUCK THE BLIND](https://files.catbox.moe/7lmi4y.png)
 
 ## c plus plus 

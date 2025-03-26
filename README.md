@@ -3,10 +3,8 @@
 
 - c plus plus is my fav lang if u didnt notice already
 - oop mastermind
-- learning re and windows internals shit is really interesting ngl
-- i love my puter
+- learning re and windows internals
 - looking for gf make pr if interested ('ω')
-- i hate web "devs"
 - death to web "devs"
 - i love c plus plus...
 

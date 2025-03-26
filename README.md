@@ -1,5 +1,3 @@
-![FUCK THE BLIND](https://files.catbox.moe/o7ud9i.png)
-
 ## c plus plus 
 [![wakatime](https://wakatime.com/badge/user/018ea52f-5348-4c72-a28d-0b2c613e835b.svg)](https://wakatime.com/@018ea52f-5348-4c72-a28d-0b2c613e835b)
 
@@ -11,3 +9,5 @@
 - i hate web "devs"
 - death to web "devs"
 - i love c plus plus...
+
+![FUCK THE BLIND](https://files.catbox.moe/o7ud9i.png)

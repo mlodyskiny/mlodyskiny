@@ -11,4 +11,5 @@
 
 ## cute
 ![FUCK THE BLIND](https://files.catbox.moe/o7ud9i.png)
-![FUCK THE BLIND[(https://files.catbox.moe/t5dgpp.jpg)
+
+![FUCK THE BLIND](https://files.catbox.moe/t5dgpp.jpg)

@@ -7,9 +7,9 @@
 - death to web "devs"
 - i love c plus plus...
 - unreal is the best game engine ever made if you say shit on it u dead ;)
+- favs: k-on, mirai nikki, school days
 
 [![wakatime](https://wakatime.com/badge/user/018ea52f-5348-4c72-a28d-0b2c613e835b.svg)](https://wakatime.com/@018ea52f-5348-4c72-a28d-0b2c613e835b)
-[![483_](https://img.shields.io/badge/483__-121212?logo=discord)](https://discord.com/app)
 [![CloseHandle](https://img.shields.io/badge/CloseHandle-121212?logo=myanimelist)](https://myanimelist.net/profile/CloseHandle)
 
 ## cute
